@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "fd9a420c21f77684",
+    "type": "split",
+    "children": [
+      {
+        "id": "0dbb37798c7795c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21d00f716bc65e0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-09-18-test.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2f350d88fc8ae349",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "697de9b409e6fe6c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "3d28d4d1098df378",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0aa71893b00523cf",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "db5bdf7d73020b91",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "0da93576b7b9fb40",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "043562e824433e1f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "_posts/2023-09-18-test.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "25c84092933968a3",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "_posts/2023-09-18-test.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1af6ed856efaf3c1",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "_posts/2023-09-18-test.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "21d00f716bc65e0a",
+  "lastOpenFiles": [
+    "assets/img/kc507jp9hwua1.png",
+    "_posts/2023-09-18-test.md",
+    "assets/img/kc507jp9hwua1.png.md",
+    "_posts/2023-09-18-first.md",
+    "/_posts/2023-09-18-test.md",
+    "tags/index.html",
+    "robots.txt",
+    "projects/index.md",
+    "posts/index.md",
+    "index.html",
+    "favicon.png",
+    "favicon.ico",
+    "assets/js/wow.min.js",
+    "assets/js/scripts.js",
+    "assets/js/modernizr-3.3.1.custom.min.js",
+    "assets/js/jquery.magnific-popup.min.js",
+    "assets/js/jquery.goup.min.js",
+    "assets/js/jquery.fitvid.min.js",
+    "assets/img/placeholder-big.jpg",
+    "assets/img/logo.png",
+    "assets/img/favicons/apple-icon-precomposed.png",
+    "assets/img/favicons/apple-icon-72x72.png",
+    "assets/img/favicons/apple-icon-144x144.png",
+    "assets/img/favicons/apple-icon-114x114.png",
+    "assets/fonts/FontAwesome/fontawesome-webfont.svg",
+    "about/index.md",
+    "_posts/2016-03-21-moon-theme.md",
+    "_posts/2016-03-20-markdown-syntax.md",
+    "_posts/2015-08-10-mathjax-example.md",
+    "_posts/2013-08-16-code-highlighting-post.md",
+    "_posts/2013-06-25-video-post.md",
+    "_posts/2013-05-22-sample-post-images.md",
+    "_posts/2012-05-23-readability-feature-post.md",
+    "_posts/2012-05-22-readability-post.md",
+    "README.md"
+  ]
+}
