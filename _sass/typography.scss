@@ -1,11 +1,11 @@
 // content area
 .content {
-	@include font-size(20);
+	@include font-size(14);
 	padding: 0 0rem;
 	//-moz-osx-font-smoothing: grayscale;
 	//-webkit-font-smoothing: antialiased ;
 	//-moz-font-smoothing: antialiased 
-	text-rendering: geometricPrecision;
+	//text-rendering: geometricPrecision;
 	text-align: justify;
 	@media #{$small} {
 		padding: 0 .5em;
@@ -15,19 +15,19 @@
 // titles
 .title {
 	text-align: center;
-	font-weight: bold;
+//	font-weight: bold;
 	> p {
 		text-align: center;
-		font-weight: bold;
+	//	font-weight: bold;
 	}
 	> a > p {
 		text-align: center;
-		font-weight: bold;
+	//	font-weight: bold;
 	}
 }
 .post-title {
 	text-align: center;
-	font-weight: bold;
+//	font-weight: bold;
 	margin-bottom: 3rem;
 }
 
