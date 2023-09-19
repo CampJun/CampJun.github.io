@@ -3,9 +3,9 @@
 	@include font-size(14);
 	padding: 0 0rem;
 	//-moz-osx-font-smoothing: grayscale;
-	//-webkit-font-smoothing: antialiased !important;
-	//-moz-font-smoothing: antialiased !important;
-	text-rendering: optimizelegibility !important;
+	//-webkit-font-smoothing: antialiased ;
+	//-moz-font-smoothing: antialiased 
+	text-rendering: geometricPrecision;
 	text-align: justify;
 	@media #{$small} {
 		padding: 0 .5em;
