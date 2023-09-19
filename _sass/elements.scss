@@ -72,9 +72,9 @@
     }
 }
 .title .btn {
-    margin: 10px;
+    margin: 2px;
     @include font-rem(16);
-    font-weight:300;
+    //font-weight:300;
 }
 .post-list {
     .btn {
